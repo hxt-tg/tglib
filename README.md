@@ -1,2 +1,3 @@
 # tglib
-Personal python library. tglib stands for Turbo Gargets Lib.
+
+A Turbo Gadgets Library by hxt-tg.
