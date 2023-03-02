@@ -129,5 +129,6 @@ dmypy.json
 .pyre/
 
 # IDEs
-.idea
-.vscode
+.idea/
+.vscode/
+_data/

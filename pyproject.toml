@@ -1,0 +1,16 @@
+[project]
+name = "tglib"
+version = "0.0.1"
+dependencies = [
+    "importlib-metadata>=3.6.0; python_version < '3.10'",
+]
+description = "A Turbo Gargets Library for Python 3."
+readme = "README.md"
+license = { text = "BSD-3-Clause" }
+maintainers = [{ name = "hxt-tg", email = "hxt.taoge@gmail.com" }]
+authors = [{ name = "hxt-tg", email = "hxt.taoge@gmail.com" }]
+requires-python = ">=3.7"
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
